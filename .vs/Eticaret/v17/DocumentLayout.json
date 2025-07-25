@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\sudem\\source\\repos\\Eticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CDAE19B-C096-4687-B689-3F0A222ED959}|Eticaret\\Eticaret.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAE19B-C096-4687-B689-3F0A222ED959}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D473FF-8FF1-448D-B242-1A776AE8F789}|Eticaret.Data\\Eticaret.Data.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D473FF-8FF1-448D-B242-1A776AE8F789}|Eticaret.Data\\Eticaret.Data.csproj|solutionrelative:eticaret.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D473FF-8FF1-448D-B242-1A776AE8F789}|Eticaret.Data\\Eticaret.Data.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D473FF-8FF1-448D-B242-1A776AE8F789}|Eticaret.Data\\Eticaret.Data.csproj|solutionrelative:eticaret.data\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\sudem\\source\\repos\\eticaret\\eticaret.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6AFA24-F67A-4BC7-AD3A-733D3C122AE9}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +58,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret\\Program.cs",
-              "RelativeDocumentMoniker": "Eticaret\\Program.cs",
-              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret\\Program.cs",
-              "RelativeToolTip": "Eticaret\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Data\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Eticaret.Data\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Data\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Eticaret.Data\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T17:18:58.507Z",
+              "WhenOpened": "2025-07-25T13:22:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Eticaret.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Eticaret.Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:13:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:11:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Contact.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:08:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\News.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\News.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:09:11.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:09:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Slider.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:09:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:08:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\Brand.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:08:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\sudem\\source\\repos\\Eticaret\\Eticaret.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:08:21.817Z",
               "EditorCaption": ""
             }
           ]
