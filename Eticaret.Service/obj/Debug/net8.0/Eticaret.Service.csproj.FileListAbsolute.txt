@@ -1,0 +1,13 @@
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\bin\Debug\net8.0\Eticaret.Service.deps.json
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\bin\Debug\net8.0\Eticaret.Service.dll
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\bin\Debug\net8.0\Eticaret.Service.pdb
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.csproj.AssemblyReference.cache
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.AssemblyInfoInputs.cache
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.AssemblyInfo.cs
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.csproj.CoreCompileInputs.cache
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.sourcelink.json
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.dll
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\refint\Eticaret.Service.dll
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\Eticaret.Service.pdb
+C:\Users\sudem\source\repos\Eticaret\Eticaret.Service\obj\Debug\net8.0\ref\Eticaret.Service.dll
